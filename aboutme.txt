@@ -1,0 +1,12 @@
+Your name: Jiabao Qiu
+Your student ID: 010037937
+Your major: Computer Science
+Your preferred email address: gabriellayau0919@gmail.com (while the registered one at SJSU is qiujiabao0919@163.com)
+Check one: [x] Undergraduate, [ ] Graduate, [ ] Open university 
+Repeating the class? [x] Yes, [ ] No
+Place and semester where you took a programming course in Java: SJSU Spring2015, Fall 2015, Spring 2016
+Course number and grade received: CS46A:A- ; CS46B:B+ ; CS151:D+
+Place and semester where you took a course in data structures: SJSU Fall2015
+Course number and grade received: CS46B:B+
+Time it took you to answer the two questions below: about 25 minutes
+Did you ask anyone for help? [ ] Yes, [x] No
